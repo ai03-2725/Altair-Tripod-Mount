@@ -4,7 +4,9 @@ A 3D printable tripod mount for the [Altair(-X) keyboard](https://ai03.com/proje
 ![Screenshot](./overview.png)
 
 Note that **this is completely untested - proceed at your own risk**; depending on how long the threads of the tripod are, you may need to extend the 3D print body or add some washers to prevent it from grinding into the case.  
+
 The files are in .step format - feel free to modify as necessary in your CAD program of choice.  
+See the [license file](./LICENSE.txt) before use.  
 
 # Assembly Instructions
 ![Installation Diagram](./installation.png)
